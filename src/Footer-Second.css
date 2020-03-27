@@ -1,0 +1,19 @@
+.footer-second{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-second{
+    font-size: 10px;
+    font-family: sans-serif;
+    color:grey
+}
+.p1{
+    margin-bottom: 1px;
+}
+
+.p2{
+    margin-top: 6px;
+}

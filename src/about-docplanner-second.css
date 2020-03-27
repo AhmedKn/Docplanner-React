@@ -1,0 +1,35 @@
+.about-docplanner-second{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 66px;
+}
+
+.about-docplanner-scond-title{
+    font-size: 30px;
+    color: #00CCB1;
+    font-family: sans-serif;
+    margin-top:5px;
+    margin-bottom: 0px;
+}
+.about-docplanner-scond-parag{
+    font-size: 14px;
+    color: grey;
+    font-family: sans-serif;
+    margin-top: 1px;
+    margin-bottom: 0px;
+}
+
+.about-docplanner-scond-title-part{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   margin-bottom: 25px;
+}
+
+.about-docplanner-scond-parag-part{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+

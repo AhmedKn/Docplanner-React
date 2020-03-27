@@ -1,0 +1,66 @@
+.img-srv-card2{
+    padding-left: 157px;
+    
+}
+.img-srv-card1{
+    margin-left: -10px;
+    width: 390px;
+    height: 248px;
+}
+.serv-section{
+    display: flex;
+    justify-content: space-between;
+    width: 997px;
+    padding-left: 251px;
+    padding-top: 72px;
+}
+
+.service-card-pat{
+    box-sizing: border-box;
+    background-color: #00CCB1;
+    height: 390px;
+    width: 479px;
+    overflow: hidden;
+    padding-left: 38px;
+    padding-top: 16px;
+    border-radius: 7px;
+}
+.service-card-doc{
+    box-sizing: border-box;
+    background-color: #3D83DF;
+    height: 390px;
+    width: 479px;
+    overflow: hidden;
+    padding-left: 38px;
+    padding-top: 16px;
+    border-radius: 7px;
+    
+}
+
+.serv-title{
+    color:#D5D5D5;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+
+}
+.serv-parag{
+    color: white;
+    font-size: 29px;
+    font-family: Helvetica,Helvetica,Arial,sans-serif;
+    font-weight: 300;
+    margin-top: -12px;
+    padding-right: 5px;
+}
+.img-put{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 113px;
+}
+.dropselect{
+    height: 39px;
+    width: 195px;
+    background-color: white;
+    border-radius: 5px;
+    font-size: 17px;
+    font-family: sans-serif;
+    
+}

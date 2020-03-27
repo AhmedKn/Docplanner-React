@@ -1,0 +1,16 @@
+.footer-first{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-first p{
+    font-size: 13px;
+    font-family: sans-serif;
+    color:grey
+}
+
+.footer-first p a{
+    text-decoration: none;
+    color: rgb(64, 153, 178);
+}

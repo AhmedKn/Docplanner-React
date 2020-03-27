@@ -1,0 +1,81 @@
+.about-docplanner{
+    height: 650px;
+    width: 1519px;
+    background-color: #DEF8F6;
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+.docplanner-about-title{
+    font-size: 35px;
+    font-family: sans-serif;
+    color: #00CCB1;
+    margin-bottom: 0px;
+    margin-top: 9px;
+    margin-left: 239px;
+}
+.docplanner-about-parag{
+    margin-top: 22px;
+    width: 440px;
+    color: grey;
+    font-family: sans-serif;
+    margin-left: 239px;
+
+}
+.docplanner-logo-img{
+    margin-left: 142px;
+    margin-top: 30px;
+}
+.about-docplanner-part1{
+    margin-top: 99px;
+}
+
+.about-docplanner-card-bot{
+    background-color: white;
+    height: 251px;
+    width: 231px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 7px;
+    margin-right:19px ;
+    margin-top: 30px;
+}
+.about-docplanner-card-top{
+    background-color: white;
+    height: 251px;
+    width: 231px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 7px;
+    margin-right:19px ;
+}
+
+.about-docplanner-part2{
+    display: flex;
+    width: 500px;
+    height: 530px;
+    flex-wrap: wrap;
+    margin-top: 48px;
+    margin-right: 167px;
+}
+.card-title{
+    color:#00CCB1;
+    font-size: 24px;
+    margin-left: 50px;
+    margin-top: -12px;
+    margin-bottom: 0px;
+    
+}
+.card-parag{
+    font-size: 17px;
+    color: grey;
+    margin-top: -49px;
+}
+.logo-doc{
+    margin-bottom: -29px;
+}

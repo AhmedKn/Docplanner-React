@@ -1,0 +1,32 @@
+.company-presentation-title{
+color: #00CCB1;
+font-size: 31px;
+width: 226px;
+font-family: sans-serif;
+}
+
+.company-presentation-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1035px;
+    margin-left: 249px;
+    margin-top: 30px;
+
+}
+
+.logos-section{
+    flex-wrap: wrap;
+    display: flex;
+    width: 674px;
+}
+
+.svg-logo{
+    margin-right: 39px;
+    margin-bottom: 22px;
+    fill: grey;
+}
+.svg-logo:hover{
+    fill: #00CCB1;
+}
+
